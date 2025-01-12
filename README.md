@@ -2,15 +2,9 @@
 
 Basit Meditasyon Uygulaması.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Ekran görüntüsü 2025-01-12 223751](https://github.com/user-attachments/assets/32cdd38b-4bf5-42db-8dde-50cc604f1600)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Ekran görüntüsü 2025-01-12 223802](https://github.com/user-attachments/assets/4b9dce2b-7c3f-4176-b512-10b69b27a8b5)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
